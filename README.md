@@ -1,3 +1,1 @@
-# hometask
-# homework
 # homework
